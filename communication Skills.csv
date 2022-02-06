@@ -1,0 +1,10 @@
+SR NO,PRN,NAME,CA1,CA2,MID SEM,Date,AGE,SEX,SLOPE,target
+1,2.03E+12,Akshay Borhade,Absent,Absent,Present,Yes,12,1,0,1
+2,2.03E+12,Atharv Tavle,Present,Absent,Present,Yes,23,0,2,0
+3,2.03E+12,kaushal Kshirsagar,Absent,Absent,Present,No,34,0,0,122
+4,2.03E+12,Manas Patil,Absent,Absent,Absent,Yes,45,1,2,134
+5,2.03E+12,Raj Mahadik,Absent,Present,Present,Yes,22,1,2,1
+6,2.03E+12,Sagar Veermani,Absent,Present,Present,No,33,0,2,1
+7,2.03E+12,Suraj Patil,Absent,Present,Present,Yes,19,0,2,2
+8,2.03E+12,vineet Kadam,Absent,Present,Present,No,20,1,0,1
+9,2.03E+12,Yogesh Jadhav,Absent,Absent,Absent,No,43,1,0,1
